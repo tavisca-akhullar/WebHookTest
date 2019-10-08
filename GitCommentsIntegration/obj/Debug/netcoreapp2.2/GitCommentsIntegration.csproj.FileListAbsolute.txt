@@ -1,0 +1,14 @@
+C:\Users\akhullar\source\repos\GitCommentsIntegration\GitCommentsIntegration\obj\Debug\netcoreapp2.2\GitCommentsIntegration.csprojAssemblyReference.cache
+C:\Users\akhullar\source\repos\GitCommentsIntegration\GitCommentsIntegration\obj\Debug\netcoreapp2.2\GitCommentsIntegration.csproj.CoreCompileInputs.cache
+C:\Users\akhullar\source\repos\GitCommentsIntegration\GitCommentsIntegration\obj\Debug\netcoreapp2.2\GitCommentsIntegration.RazorAssemblyInfo.cache
+C:\Users\akhullar\source\repos\GitCommentsIntegration\GitCommentsIntegration\obj\Debug\netcoreapp2.2\GitCommentsIntegration.RazorAssemblyInfo.cs
+C:\Users\akhullar\source\repos\GitCommentsIntegration\GitCommentsIntegration\obj\Debug\netcoreapp2.2\GitCommentsIntegration.AssemblyInfoInputs.cache
+C:\Users\akhullar\source\repos\GitCommentsIntegration\GitCommentsIntegration\obj\Debug\netcoreapp2.2\GitCommentsIntegration.AssemblyInfo.cs
+C:\Users\akhullar\source\repos\GitCommentsIntegration\GitCommentsIntegration\bin\Debug\netcoreapp2.2\GitCommentsIntegration.deps.json
+C:\Users\akhullar\source\repos\GitCommentsIntegration\GitCommentsIntegration\bin\Debug\netcoreapp2.2\GitCommentsIntegration.runtimeconfig.json
+C:\Users\akhullar\source\repos\GitCommentsIntegration\GitCommentsIntegration\bin\Debug\netcoreapp2.2\GitCommentsIntegration.runtimeconfig.dev.json
+C:\Users\akhullar\source\repos\GitCommentsIntegration\GitCommentsIntegration\bin\Debug\netcoreapp2.2\GitCommentsIntegration.dll
+C:\Users\akhullar\source\repos\GitCommentsIntegration\GitCommentsIntegration\bin\Debug\netcoreapp2.2\GitCommentsIntegration.pdb
+C:\Users\akhullar\source\repos\GitCommentsIntegration\GitCommentsIntegration\obj\Debug\netcoreapp2.2\GitCommentsIntegration.RazorTargetAssemblyInfo.cache
+C:\Users\akhullar\source\repos\GitCommentsIntegration\GitCommentsIntegration\obj\Debug\netcoreapp2.2\GitCommentsIntegration.dll
+C:\Users\akhullar\source\repos\GitCommentsIntegration\GitCommentsIntegration\obj\Debug\netcoreapp2.2\GitCommentsIntegration.pdb
